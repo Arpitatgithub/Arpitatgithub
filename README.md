@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arpit
-- 👀 I’m interested in UI designs
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Product designs
+- 👀 I’m interested in Development & Designing
+- 🌱 I’m currently learning Flutter
 - 📫 Reach me @ arpitthaapa8@gmail.com
 - 😄 Pronouns: He, Him
 <!---
